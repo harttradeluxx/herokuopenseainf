@@ -1,0 +1,16 @@
+{
+  "require": {
+    "php": "^8.2",
+    "ext-bcmath": "*",
+    "ext-curl": "*",
+    "ext-dom": "*",
+    "ext-mbstring": "*",
+    "ext-mysqli": "*",
+    "ext-openssl": "*",
+    "ext-pdo": "*",
+    "ext-pdo_mysql": "*",
+    "ext-json": "*",
+    "ext-xml": "*",
+    "ext-zip": "*"
+  }
+}
